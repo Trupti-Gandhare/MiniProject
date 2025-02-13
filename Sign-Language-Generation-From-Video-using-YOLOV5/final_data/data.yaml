@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+no: 5
+names: ['A','B','C','D','E']
